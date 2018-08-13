@@ -1,5 +1,5 @@
 ### Exam-20076-20180813-1
-### github地址:
+### github地址: https://github.com/Mafiti/Exam-20076-20180813-1.git
 
 ### 项目结构
 + index.jsp 功能链接在此页面中展示，链接包括登录以及电影功能链接
@@ -44,7 +44,7 @@
 过滤的网址为：
 + http://localhost:8080/main.jsp 
 + http://localhost:8080/add.jsp
-+ http://localhost:8080/addFilm.jsp
++ http://localhost:8080/addFilm.jsp 
 若没有登录的时候，则不能访问上述地址 
 若没有登录就通过输入地址的方式（如：http://localhost:8080/main.jsp ）来访问时，则跳转到login.jsp进行登录
 #### 操作流程
