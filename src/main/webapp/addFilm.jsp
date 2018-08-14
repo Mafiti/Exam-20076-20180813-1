@@ -17,6 +17,12 @@
 <html>
 <head>
     <title>修改电影</title>
+    <style>
+        .input{
+            width: 100%;
+            left: 0px;
+        }
+    </style>
 </head>
 <body>
 <%
@@ -38,19 +44,19 @@
     　　<tr>
     　　　　<td align="right">电影编号</td>
     　　　　<td>
-                <input type="text" name="id" value="<%=id%>">
+                <input class="input" type="text" name="id" value="<%=id%>">
             </td>    　　
         </tr>
     　　<tr>
     　　　　<td align="right">标题:</td>
             <td>
-                <input type="text" name="title" value="<%=title%>">
+                <input class="input" type="text" name="title" value="<%=title%>">
             </td>    　　
         </tr>   　　
         <tr>
             <td align="right">描述:</td>
             <td>
-            　　<input type="text" name="description" value="<%=description%>">
+            　　<input class="input" type="text" name="description" value="<%=description%>">
             </td>    　　
         </tr>
 

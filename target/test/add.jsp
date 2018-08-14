@@ -20,7 +20,7 @@
 
 <style>
     .input{
-        width: 90%;
+        width: 100%;
         left: 0px;
     }
 </style>
