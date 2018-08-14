@@ -1,6 +1,11 @@
 ### Exam-20076-20180813-1
 ### github地址: https://github.com/Mafiti/Exam-20076-20180813-1.git
 
+### 运行环境
++ idea 2016
++ jdk1.8
++ 数据库为sakila数据库，用户名为root 密码为111111
+
 ### 项目结构
 + index.jsp 功能链接在此页面中展示，链接包括登录以及电影功能链接
 + login.jsp 登录页面
